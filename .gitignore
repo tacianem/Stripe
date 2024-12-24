@@ -1,0 +1,19 @@
+# temp files
+*.log
+*.tmp
+*.htm
+*.sln
+*.csproj
+.vsconfig
+
+# directories
+Library/
+Logs/
+Temp/
+UserSettings/
+Build/
+.vscode/
+.vs/
+.git/
+
+
